@@ -66,8 +66,8 @@ public class Users {
                 "Sidorov",
                 "Engineer",
                 "sidor@mailbox.com",
-                892312313,
-                44000,
+                892_312_313,
+                44_000,
                 47);
 
         persArray[2] = new Users("Darya",
